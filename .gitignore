@@ -161,3 +161,5 @@ cython_debug/
 
 # 自作ファイル
 .no_share
+.vscode
+.pylintrc
